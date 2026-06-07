@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# optional
+.DS_Store
+
+emotion_log.csv
